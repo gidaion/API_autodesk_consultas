@@ -1,4 +1,3 @@
-```markdown
 # Consulta de Pedidos
 
 ## Descrição
@@ -89,4 +88,4 @@ Contribuições são bem-vindas! Se você deseja contribuir com este projeto, si
 - [React com Electron](https://www.electronjs.org/docs/tutorial/react)
 - [NW.js (Node-Webkit)](https://nwjs.io/)
 - [Autenticação JavaScript na Documentação da Autodesk](https://partner.developer.autodesk.com/sample-codes/authentication/java-script)
-```
+
