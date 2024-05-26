@@ -21,14 +21,3 @@ jobs:
 
     - name: Install dependencies
       run: npm install
-
-    - name: Run script
-      run: node script.js
-      env:
-        consumerKey: ${{ secrets.consumerKey }}
-        consumerSecret: ${{ secrets.consumerSecret }}
-        callbackUrl: ${{ secrets.callbackUrl }}
-        partnerCsn: ${{ secrets.partnerCsn }}
-        environmentUrl: ${{ secrets.environmentUrl }}
-        accessToken: ${{ secrets.accessToken }}
-
