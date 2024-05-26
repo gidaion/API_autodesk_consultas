@@ -90,5 +90,3 @@ Contribuições são bem-vindas! Se você deseja contribuir com este projeto, si
 - [NW.js (Node-Webkit)](https://nwjs.io/)
 - [Autenticação JavaScript na Documentação da Autodesk](https://partner.developer.autodesk.com/sample-codes/authentication/java-script)
 ```
-
-Agora a seção "Referências adicionais" foi adicionada ao README.
